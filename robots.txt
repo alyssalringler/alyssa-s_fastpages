@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://alyssalringler.github.io/alyssa-s_fastpages/sitemap.xml
