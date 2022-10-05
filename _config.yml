@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Alyssa Ringler's Fastpages Blog
+description: Hi, I am Alyssa! I am a junior at Del Norte and I am looking forward to learning some more about computer science!
 github_username: alyssalringler
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "alyssa-s_fastpages"
@@ -39,8 +39,7 @@ baseurl: "/alyssa-s_fastpages" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    github: alyssalringler
 
 # Set this to true to get LaTeX math equation support
 use_math: 
